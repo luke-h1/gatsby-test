@@ -14,6 +14,7 @@ import {
   SocialMedia,
   SocialMediaWrap,
   WebsiteRights,
+  SocialIcons,
 } from "./FooterElements"
 const Footer = () => {
   return (
